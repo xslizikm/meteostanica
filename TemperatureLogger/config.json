@@ -1,0 +1,17 @@
+{
+"mysql":[{
+	"host":"localhost",
+	"user":"logger",
+	"password":"password",
+	"database":"temperatures"
+	}],
+"sensors":[{
+	"sensor1":"Izba"
+	}],
+"sensorgpios":[{
+	"gpiosensor1":"4"
+	}],
+"sensortype":"22",
+"sensoramount":"1",
+"adafruitpath":"/home/pi/DHT22-TemperatureLogger/Adafruit_Python_DHT/examples/AdafruitDHT.py"
+}
